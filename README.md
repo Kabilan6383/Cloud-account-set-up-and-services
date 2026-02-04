@@ -1,4 +1,4 @@
-<img width="1547" height="736" alt="image" src="https://github.com/user-attachments/assets/5f1bf88a-9c30-46d9-a509-3589c6b12dd6" /># EX NO 1: Cloud account setup and services
+# EX NO 1: Cloud account setup and services
 
 ### Name : Kabila p
 ### Reg no: 212224040145
